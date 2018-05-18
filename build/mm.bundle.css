@@ -10542,7 +10542,7 @@ a.button {
  * App Branding
  */
 .mm-bglogo-app {
-  background-color: #f98012;
+  background-color: #f98012 !important;
   /* Change this to add a bg image or change color */
   background: -webkit-radial-gradient(#f98012, #f98012);
   background: radial-gradient(#f98012, #f98012);
@@ -10595,7 +10595,7 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #f98012 !important;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
