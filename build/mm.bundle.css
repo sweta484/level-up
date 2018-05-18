@@ -10541,7 +10541,7 @@ a.button {
 /**
  * App Branding
  */
-.mm-bglogo {
+.mm-bglogo-app {
   background-color: #f98012;
   /* Change this to add a bg image or change color */
   background: -webkit-radial-gradient(#f98012, #f98012);
@@ -10556,17 +10556,17 @@ a.button {
   height: 100%;
   width: 100%;
   display: table; }
-  .mm-bglogo .mm-logo {
+  .mm-bglogo-app .mm-logo-app {
     display: table-cell;
     text-align: center;
     vertical-align: middle; }
-  .mm-bglogo img {
+  .mm-bglogo-app img {
     width: 60%;
     max-width: 300px;
     display: block;
     margin: 0 auto;
     margin-bottom: 30px; }
-  .mm-bglogo .spinner {
+  .mm-bglogo-app .spinner {
     color: #ffffff;
     stroke: #ffffff;
     fill: #ffffff; }
