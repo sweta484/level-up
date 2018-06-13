@@ -10542,10 +10542,10 @@ a.button {
  * App Branding
  */
 .mm-bglogo-app {
-  background-color: rgba(0, 100, 210, 1) !important;
+  background-color: rgba(0, 61, 124,1) !important;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(rgba(0, 100, 210, 1), rgba(0, 100, 210, 1));
-  background: radial-gradient(rgba(0, 100, 210, 1), rgba(0, 100, 210, 1));
+  background: -webkit-radial-gradient(rgba(0, 61, 124,1), rgba(0, 61, 124,1));
+  background: radial-gradient(rgba(0, 61, 124,1), rgba(0, 61, 124,1));
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10595,21 +10595,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: rgba(0, 100, 210, 1) !important;
+  background-color: rgba(0, 61, 124,1) !important;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: rgba(0, 100, 210, 1) !important;
+    background-color: rgba(0, 61, 124,1) !important;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: rgba(0, 100, 210, 1); !important;}
+      background-color: rgba(0, 61, 124,1); !important;}
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
